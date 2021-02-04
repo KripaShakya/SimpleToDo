@@ -1,6 +1,6 @@
-# Project 1 - *SimpleToDo*
+# Project 1 - *SimpleTodo*
 
-**SimpleToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**SimpleTodo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Kripa Shakya**
 
@@ -10,9 +10,9 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-* [*] User can **view a list of todo items**
-* [*] User can **successfully add and remove items** from the todo list
-* [*] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [* ] User can **view a list of todo items**
+* [* ] User can **successfully add and remove items** from the todo list
+* [* ] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/060ocgD.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
