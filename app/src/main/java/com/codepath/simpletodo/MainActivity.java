@@ -70,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
         return new File(getFilesDir(), "data.txt");
     }
     private void loadItems(){
+        //this loads item
         try{
         items = new ArrayList<>(FileUtils.readLines(getDataFile(), Charset.defaultCharset()));
         }catch(IOException e) {
